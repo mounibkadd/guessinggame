@@ -1,4 +1,4 @@
-# GuessingGame
+GuessingGame
 
 Date et heure d'execution de make : Sat Nov 21 23:24:25     2026
 
